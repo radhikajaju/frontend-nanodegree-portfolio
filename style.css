@@ -1,0 +1,91 @@
+.project{
+	margin: 50px;
+}
+
+.header {
+	display: flex;
+	border-bottom-style: solid;
+
+}
+
+.logo{
+	margin-bottom: 10px;
+}
+
+.container{
+	float: left;
+	display: flex;
+	height: 170px;
+}
+
+.blank{
+	width: 750px;
+}
+
+.myname{
+	text-align: right;
+	font-size: 30px;
+}
+
+.name{
+	font-size: 35px;
+	font: sans-serif;
+	color: #747704
+}
+
+.designation{
+	font-size: 20px;
+}
+
+.feature{
+	margin-left: 7px;
+	margin-top: 15px;
+	margin-bottom: 10px;
+	color: #BCBBBB;
+	font-size: 35px;
+	font-family: Courier New;
+}
+
+.sunflower{
+		margin: 12px;
+		position: relative;
+}
+
+.appstore{
+	margin-right: 12px;
+	margin-top: 12px;
+	margin-bottom: 12px;
+	position: relative;
+}
+
+.bokeh{
+	margin-left: 12px;
+	margin-top: 12px;
+	margin-bottom: 12px;
+	position: relative;
+}
+
+.connect{
+	text-align: center;
+}
+
+.sun{
+	font-size: 30px;
+	color: #747704;
+	margin: 8px;
+	text-align: center;
+}
+
+.bok{
+	font-size: 30px;
+	color: #747704;
+	margin: 8px;
+	text-align: center;
+}
+
+.appify{
+	font-size: 30px;
+	color: #747704;
+	margin: 8px;
+	text-align: center;
+}
